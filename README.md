@@ -15,6 +15,8 @@ Multi-Language Support: The audiobook features poems in multiple languages, incl
 India's Beauty: Poems that paint vivid pictures of India’s landscapes, rivers, mountains, and flora.
 Cultural Diversity: Verses that celebrate India’s unity in diversity, highlighting its different cultures and traditions.
 Historical Greatness: Pieces that honor India’s rich history and contributions to the world.
+
+
 🧠 Role of AI in the Project
 We leveraged cutting-edge AI tools to:
 
